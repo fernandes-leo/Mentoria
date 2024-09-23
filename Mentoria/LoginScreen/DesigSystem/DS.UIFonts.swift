@@ -15,4 +15,7 @@ extension UIFont {
     static let heading2 = UIFont(name: "Poppins-Bold", size: 24) ?? UIFont.systemFont(ofSize: 24, weight: .bold)
     static let paragraph = UIFont(name: "Roboto-Regular", size: 16) ?? UIFont.systemFont(ofSize: 16)
     static let button = UIFont(name: "Roboto-Regular", size: 14) ?? UIFont.systemFont(ofSize: 14)
+    
+    
 }
+

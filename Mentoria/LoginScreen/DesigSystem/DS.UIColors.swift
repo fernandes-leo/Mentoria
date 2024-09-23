@@ -31,4 +31,6 @@ extension UIColor {
     static let neutralGray = UIColor(hex: "#F3F4F6")
     static let supportingOrange = UIColor(hex: "#FB923C")
     static let alertRed = UIColor(hex: "#F87171")
+    
+    
 }

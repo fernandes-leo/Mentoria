@@ -59,5 +59,7 @@ class CustomButton: UIButton {
         didSet {
             alpha = isHighlighted ? 0.7 : 1.0
         }
+        
+        
     }
 }
